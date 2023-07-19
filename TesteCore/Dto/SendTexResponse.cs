@@ -2,7 +2,7 @@
 
 namespace TesteCore.Dto
 {
-    public class SendTexResponse
+    public class SendTextResponse
     {
         public string? Phone { get; set; }
         public string? Message { get; set; }
